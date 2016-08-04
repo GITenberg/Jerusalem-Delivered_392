@@ -1,0 +1,46 @@
+_repo: Jerusalem-Delivered_392
+_version: 0.0.1
+alternative_title: Gerusalemme liberata. English
+contributor:
+  translator:
+    agent_name: Fairfax, Edward
+    alias: Fairefax, Edward
+    deathdate: 1635
+    gutenberg_agent_id: '5004'
+    url: http://www.gutenberg.org/2009/agents/5004
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Fairfax
+creator:
+  author:
+    agent_name: Tasso, Torquato
+    aliases:
+    - Dasso, Dorkuato
+    - Tasso, Torcuato
+    - Tasso, Torquata
+    - Taso, Torquato
+    - Tasso, Torkvato
+    birthdate: 1544
+    deathdate: 1595
+    gutenberg_agent_id: '218'
+    url: http://www.gutenberg.org/2009/agents/218
+    wikipedia: http://en.wikipedia.org/wiki/Torquato_Tasso
+description: 'Translation of: Gerusalemme Liberata'
+gutenberg_bookshelf:
+- Opera
+- Banned Books from Anne Haight's list
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Italian -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Crusades -- First, 1096-1099 -- Poetry'
+- !lcsh 'Godfrey, of Bouillon, approximately 1060-1100 -- Poetry'
+- !lcsh 'Jerusalem -- History -- Latin Kingdom, 1099-1244 -- Poetry'
+- GITenberg
+title: Jerusalem Delivered
+url: http://www.gutenberg.org/ebooks/392
