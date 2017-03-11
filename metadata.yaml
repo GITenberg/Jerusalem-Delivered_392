@@ -1,5 +1,5 @@
 _repo: Jerusalem-Delivered_392
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Gerusalemme liberata. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5004'
     url: http://www.gutenberg.org/2009/agents/5004
     wikipedia: http://en.wikipedia.org/wiki/Edward_Fairfax
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tasso, Torquato
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/218
     wikipedia: http://en.wikipedia.org/wiki/Torquato_Tasso
 description: 'Translation of: Gerusalemme Liberata'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/392#Jerusalem-Delivered
 gutenberg_bookshelf:
 - Opera
 - Banned Books from Anne Haight's list
